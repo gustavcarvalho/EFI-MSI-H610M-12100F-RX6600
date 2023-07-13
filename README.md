@@ -1,6 +1,6 @@
 # MSI H610M-B + i3 12100F + RX 6600 + AX210 Wifi Card
 
-![about-12 3 1]()
+![about-13 4 1](![Screenshot at Jul 13 07-50-10](https://github.com/gustavcarvalho/EFI-MSI-H610M-12100F-RX6600/assets/122801722/e65d5a78-d16d-411a-bb2b-3b2fb8f62e3a))
 
 **Latest working macOS**: 13.4.1
 <br>
