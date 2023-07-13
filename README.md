@@ -11,7 +11,7 @@
 - MSI H610M-B LGA 1700
 - RX 6600 - AsRock
 - 2x 8Gb DDR4 3200Mhz Juhor with XMP Enabled
-- AX210 Wifi Card - Connect directly in the motherboard
+- AX210 Wifi Card - Connected directly in the motherboard
 
 ## Notes
 - I Removed the serial number, ROM and etc. Please generate a new one (MacPro1,1) with SMBios.
